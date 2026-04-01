@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "weather",
+      "description": "天气查询技能，支持查询当前天气和天气预报",
+      "path": "skills/weather"
+    },
+    {
+      "name": "git-helper",
+      "description": "Git 操作指南，提供常用 Git 命令的使用说明和示例",
+      "path": "skills/git-helper"
+    },
+    {
+      "name": "code-review",
+      "description": "代码审查技能，帮助进行代码质量检查和改进建议",
+      "path": "skills/code-review"
+    }
+  ]
+}
